@@ -47,3 +47,12 @@ description : affiche l'historique des commit réalisés
 pour quitter cette commande il est souvent nécessaire d'appuyer sur "q".
 
 ==============
+
+commande : git remote add origin <url>
+
+description : configure le projet pour l'associer à un dépot git sur github
+le depot distant est appelé "origin" (c'est une convention).
+cette configuration est à faire une fois par projet git et seulement
+si l'on souhaite le partager/le sauvegarder sur github.
+
+==========
