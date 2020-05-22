@@ -30,3 +30,14 @@ une fois les modifications ajoutées avec "git add", la commande commit permet d
 définitivement nos modifications en y attachant un message personnalisé, sensé décrire les modifications effectuées
 
 =============
+
+commande : git config user.name <nom>
+
+description : configure le nom utilisé pour signer les paquets
+
+=========
+commande : git config user.email <email>
+
+description : configure l'adresse mail utilisée pour signer les paquets
+
+=========
